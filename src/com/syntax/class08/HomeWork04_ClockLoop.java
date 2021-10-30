@@ -1,6 +1,6 @@
 package com.syntax.class08;
 
-public class HomeWork04 {
+public class HomeWork04_ClockLoop {
 
 	public static void main(String[] args) {
 		/*
