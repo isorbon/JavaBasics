@@ -19,8 +19,7 @@ public class HomeWork_3 {
 
 			if (accumulation < priceItem) {
 				System.out.println(
-						"You still need to pay $" + (priceItem - accumulation) + 
-						". Please, enter the remainder.");
+						"You still need to pay $" + (priceItem - accumulation) + ". Please, enter the remainder.");
 			} else if (accumulation > priceItem) {
 				System.out.println("Your change is $" + (accumulation - priceItem));
 				break;
