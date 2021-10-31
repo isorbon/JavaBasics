@@ -11,13 +11,13 @@ public class HomeWork02 {
 		String[] animals = { "Dog", "Elephant", "Fish", "Horse", "Lion", "Giraffe" };
 
 		for (String ani : animals) {
-			System.out.print(ani + " ");
+			System.out.print(ani + ", ");
 		}
 		
 		System.out.println();
 		
 		for (int i = 0; i < animals.length; i++) {
-			System.out.print(animals[i] + " ");
+			System.out.print(animals[i] + ", ");
 		}
 	}
 

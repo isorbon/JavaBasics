@@ -11,11 +11,11 @@ public class HomeWork01 {
 		String[] cars = {"BMW", "Toyota", "Mercedes", "Ford", "Porsh", "Škoda"};
 		
 		for(String auto:cars) {
-			System.out.print(auto + " ");
+			System.out.print(auto + ", ");
 		}
 		System.out.println();
 		for(int i=0; i<cars.length; i++){
-			System.out.print(cars[i] + " ");
+			System.out.print(cars[i] + ", ");
 		}
 		
 
