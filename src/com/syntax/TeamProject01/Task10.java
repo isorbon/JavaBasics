@@ -1,4 +1,4 @@
-package TeamProject01;
+package com.syntax.TeamProject01;
 
 import java.util.Scanner;
 
@@ -6,7 +6,7 @@ public class Task10 {
 
 	public static void main(String[] args) {
 		// Write a java program to find the second largest number in the array?
-		
+
 		Scanner inp = new Scanner(System.in);
 		int size, temp;
 		System.out.print("Please enter the Array's size: ");

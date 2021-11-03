@@ -1,7 +1,6 @@
-package TeamProject01;
+package com.syntax.TeamProject01;
 
 public class Task02 {
-
 	public static void main(String[] args) {
 		/*
 		 * Create a 2D array or integer type where you will store odd and even numbers.
@@ -24,5 +23,6 @@ public class Task02 {
 			System.out.println();
 		}
 	}
+
 
 }
